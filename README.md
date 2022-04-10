@@ -1,6 +1,6 @@
-## Vigilanterp
+# Vigilanterp
 Bitcamp 2022 submission. By Andrew Muirhead, Jason Steinberg and Yuvan Sundrani. 
-# Inspiration
+## Inspiration
 My family has been relied on the Neighbors App to keep track of suspicious activity around our neighborhood. People can anonymously report a crime or a suspected crime and notify their neighbors. These reports are logged and shown on a map to give an overview of any threats around the neighborhood. 
 
 Terp nightlife is a huge part of socializing at UMD. We decided to take a similar approach as the Neighbors App to protecting vulnerable Terps around campus. Imagine you and your friends are walking back to your dorm at 10pm, and a strange old man begins to follow you. You manage to evade him, but you're worried he might try to bother someone else. If you don't feel like calling the police, you can file an anonymous report on Vigilanterp describing the suspect, incident and auto-recorded location of the incident. Incidents will be displayed for all Terps to see on a real-time icon-coded map. A report can consist of a form and also a recording, either of yourself, a situation or a suspicious person. These recordings are a part of the public report and will be visible to UMPD through the cloud. 
