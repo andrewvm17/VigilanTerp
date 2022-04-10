@@ -1,7 +1,7 @@
 # Vigilanterp
 Bitcamp 2022 submission. By Andrew Muirhead, Jason Steinberg and Yuvan Sundrani. 
 
-![Demo pic 1](/images/1.png)
+![Demo pic 1](/images/1.png) ![Demo pic 2](/images/2.png) ![Demo pic 3](/images/3.png)
 
 
 ## Inspiration
