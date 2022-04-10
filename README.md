@@ -1,5 +1,9 @@
 # Vigilanterp
 Bitcamp 2022 submission. By Andrew Muirhead, Jason Steinberg and Yuvan Sundrani. 
+
+![Demo pic 1](/images/1.png) ![Demo pic 2](/images/2.png) ![Demo pic 3](/images/3.png)
+
+
 ## Inspiration
 My family has been relied on the Neighbors App to keep track of suspicious activity around our neighborhood. People can anonymously report a crime or a suspected crime and notify their neighbors. These reports are logged and shown on a map to give an overview of any threats around the neighborhood. 
 
